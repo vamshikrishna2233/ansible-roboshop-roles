@@ -1,4 +1,4 @@
-- name: maven package
-  ansible.builtin.command: mvn clean package
-  args:
-    chdir: /app
+- name: install maven
+  ansible.builtin.yum:
+    name: maven
+    state: installed
