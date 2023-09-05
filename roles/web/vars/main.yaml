@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.krishnadevops.online
+USER_HOST: user.krishnadevops.online
+SHIPPING_HOST: shipping.krishnadevops.online
+CART_HOST: cart.krishnadevops.online
+PAYMENT_HOST: payment.krishnadevops.online
